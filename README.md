@@ -1,5 +1,4 @@
 # aaronochoa-portfolio
-Portfolio of academic and personal projects in robotics, automation, and embedded systems.
 Hey! I’m Aarón 👋
 
 I’m currently studying Mechatronics Engineering at Tec de Monterrey. I love building things that move, think, and improve systems — from autonomous vehicles to control circuits and process optimization using Lean Six Sigma.
